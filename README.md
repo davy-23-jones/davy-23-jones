@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davy-23-jones&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davy-23-jones" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davy-23-jones&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davy-23-jones&show_icons=true&theme=tokyonight&align=center)
